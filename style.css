@@ -389,3 +389,9 @@ justify-content: center;
 /* align-items: center; */
 /* flex-shrink: 0; */
 }
+
+ /* HOVER FOR THE BUTTONS  */
+[href="#"]:hover , #watch-sectionbtn button:hover , #Newsletterbtn button:hover{ 
+    background-color: aqua;
+    color: black;
+}
